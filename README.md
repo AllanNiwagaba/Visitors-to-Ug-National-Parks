@@ -68,6 +68,8 @@ The findings are summarised as below;
 - Murchision Falls and Queen Elizabeth had the highest no. of visitors.
 - There is slight fall in 2019 which could be attributed to the covid 19 movement restrictions.
 
+[Visitors in Uganda National Parks Report.pdf](https://github.com/user-attachments/files/20188549/Visitors.in.Uganda.National.Parks.Report.pdf)
+
 ### Recommendations
 
 - Invest in intentional advertising and marketing for stand out parks like the Rwenzoris and Mgahinga Gorilla.
