@@ -73,7 +73,7 @@ The findings are summarised as below;
 ### Recommendations
 
 - Invest in intentional advertising and marketing for stand out parks like the Rwenzoris and Mgahinga Gorilla.
-- Invest in vlogs and blogs show casing the uniqeness of each of these national parks.
+- Invest in vlogs and blogs showcasing the uniqeness of each of these national parks.
 - Invest in infrastructure to accomodate unforgettable experiences of visitors while at the parks.
 - Research on the least performing parks like Semilik, the Rwenzori mountains, Elgon and Mgahinga Gorilla should be carried out to find out why they are not being preferred as tourist destinations.
 
