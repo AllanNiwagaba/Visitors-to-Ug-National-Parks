@@ -5,6 +5,9 @@
 This project aims to provide insights into the performance of Uganda national parks by analyzing "Number of visitors to National Parks" data
 between 2015 to 2019. We want to look at trend and the contribution of each national park.
 
+[Over-view dashboard](https://github.com/user-attachments/assets/395211bb-8ed2-4a6c-9801-cb060c54c40a)
+
+
 ### Data Source
 
 The dataset used is Visitors_to_National_Parks_(Citizens_and_Foreigners),_2015_–_2019, downloaded from the Uganda Bureau of Statisitcs (UBOS) website.
