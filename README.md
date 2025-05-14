@@ -5,7 +5,7 @@
 This project aims to provide insights into the performance of Uganda national parks by analyzing "Number of visitors to National Parks" data
 between 2015 to 2019. We want to look at trend and the contribution of each national park.
 
-[Over-view dashboard](https://github.com/user-attachments/assets/395211bb-8ed2-4a6c-9801-cb060c54c40a)
+[View dashboard here](<iframe title="Visitors to Uganda National Parks" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTQ3OTk4YWEtMzA2MC00YTNkLWJiMDMtZDk5MGJkN2U3NDYxIiwidCI6ImY0OTU4NDAzLTgyZGEtNDYxNC1hNjk2LTI3M2VkMWI4ZTU5OSJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 ### Data Source
