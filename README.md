@@ -43,16 +43,16 @@ This involved exploring the data to find answers questions to the questions:-
 ### The Data Analysis Process
 Used dax calculations to create aggregatation measesures such as:
 
-- No. of National parks
+- **No. of National parks**
 ```Parks = COUNT('National Parks'[National Parks])```
 
--  No. of visitors
+-  **No. of visitors**
 ```No. of Visitors = SUM(FactTable[Total Visitors])```
 
-- Annual Avg No. of visitors
+- **Annual Avg No. of visitors**
 ```Avg.No. of Visitors per Year = DIVIDE([No. of Visitors],5)```
 
-- YoY% Growth
+- **YoY% Growth**
 ```YoY% Change = 
 VAR Previous_Year=
     CALCULATE([No. of Visitors],DATEADD('Calendar'[Date],-1,YEAR))
